@@ -1,0 +1,31 @@
+ 864  git --version
+ 865  sudo apt-get install git
+ 874  git init
+ 876  git remote add origin https://github.com/jjcmalhotra/FirstDemo.git
+ 878  git status
+ 880  git add
+ 881  git status
+ 882  git add test.txt 
+ 883  git status
+ 884  git commit -m "Steps file" 
+ 885  git config --global user.name "jjcmalhotra"
+ 886  git config --global user.email "jmalhotra@gmail.com"
+ 887  git commit -m "Steps file" 
+ 888  git log
+ 889  git status
+ 890  git push origin 
+ 891  git push origin master
+ 892  git pull
+ 895  git pull origin master
+ 897  git push origin master
+ 898  git status
+ 900  git status
+ 908  gedit .gitignore
+ 909  git status
+ 910  git add test.txt
+ 911  git status
+ 912  git commit -m "Modified steps"
+ 913  git push origin master
+ 915  history | grep "git"
+
+
