@@ -1,0 +1,14 @@
+Steps for installing git
+
+directory; stating; local repository; remote
+
+git --version
+install
+
+get init
+ll
+
+#link local repository with remote server
+ git remote add origin https://github.com/jjcmalhotra/FirstDemo.git
+
+git status
